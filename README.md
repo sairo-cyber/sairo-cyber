@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Sairo 👋
 
-<!--
-**sairo-cyber/sairo-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a French student passionate about cybersecurity, networking and Linux.
 
-Here are some ideas to get you started:
+I enjoy learning by building, exploring new technologies and documenting what I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 🇫🇷 Based in France
+* 🔐 Interested in Blue Team, SOC and Cloud Security
+* 🐧 Linux enthusiast
+* 🌐 Passionate about networking
+* 💻 Always learning and improving
+
+## Tech Stack
+
+### Languages
+
+* Python
+* Bash
+* C
+* HTML
+* CSS
+* JavaScript
+
+### Technologies
+
+* Linux
+* Docker
+* Git
+* Networking
+
+## Currently Learning
+
+* Blue Team fundamentals
+* Cloud Security
+* Linux administration
+* Python automation
+* Networking
+
+## Goals
+
+* Build practical cybersecurity projects
+* Improve Linux and networking skills
+* Create a complete home lab
+* Share clean and well-documented repositories
+
+---
+
+> *Learning by building.*
