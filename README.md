@@ -32,7 +32,7 @@ I enjoy learning by building, exploring new technologies and documenting what I 
 
 ## Currently Learning
 
-* Blue Team fundamentals
+* Blue Team
 * Cloud Security
 * Linux administration
 * Python automation
@@ -41,10 +41,6 @@ I enjoy learning by building, exploring new technologies and documenting what I 
 ## Goals
 
 * Build practical cybersecurity projects
-* Improve Linux and networking skills
+* Improve my Linux and networking skills
 * Create a complete home lab
 * Share clean and well-documented repositories
-
----
-
-> *Learning by building.*
